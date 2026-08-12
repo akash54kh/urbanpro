@@ -1,0 +1,35 @@
+Tuesday 11 Aug 2026
+
+8:00pm–9:30pm IST
+
+Ajitha Kulanda
+
+Camera Technical Issues Discussion
+Akash and Ajitha discussed technical issues with Ajitha's camera during their meeting. Ajitha explained that his camera image was inverted and not working properly on his laptop. Akash advised Ajitha to troubleshoot and fix the issue immediately to enable efficient teaching and learning.
+
+Exam Preparation and Adolescent Changes
+Akash discussed exam preparation with Ajitha, who is preparing for upcoming midterm exams in multiple subjects including math and science. Ajitha mentioned taking additional tutoring for SST and Science but noted that the tutor makes them write extensively, which causes hand pain. Akash also inquired about Ajitha's health and football activities, learning that Ajitha is 14 years old and plays in the under-15 category, with around 120 people attending the recent football class. The conversation concluded with a discussion about adolescent changes, where Ajitha mentioned that crucial changes occur at ages 15-16, including increased sweat gland activity and voice changes.
+
+Mathematics Topics Review Session
+Akash and Ajitha reviewed mathematics topics, confirming they cover number system, coordinate geometry, linear polynomials, polynomials, circles, perimeter and area, and probability. Ajitha mentioned difficulty with polynomials and circles due to missing school last week. They discussed probability concepts, including coin toss outcomes and calculations, with Akash explaining that for two coins, there are four possible outcomes (HH, HT, TH, TT) and clarifying the probability of getting at least one head.
+
+Probability Concepts Discussion Session
+Akash and Ajitha discussed probability concepts, including the formula for probability as the number of favorable outcomes divided by the total number of outcomes. They worked through examples involving coin tosses to illustrate how to calculate probabilities and identified sure events as those with a probability of 1. Akash planned to cover the basics of probability and potentially other chapters in future sessions, with Ajitha agreeing to this approach.
+
+Probability Concepts Teaching Session
+Akash taught Ajitha about probability concepts, explaining that the probability of an event plus the probability of it not happening equals 1. He shared a YouTube video he had created for Einstein Square about probability teaching, which Ajitha was asked to watch later. They also briefly discussed polynomials as the next chapter topic to cover.
+
+Polynomial Types and Examples
+Akash explained different types of polynomials to Ajitha, including linear, quadratic, cubic, and higher-degree polynomials. He demonstrated how to identify the type of polynomial based on the highest degree of the variable and showed the process of finding polynomial values by substituting variables. Akash then provided an example of calculating the value of a polynomial when x equals 1, and announced plans to practice with another polynomial problem.
+
+Polynomial Solution and Exam Preparation
+Akash guided Ajitha through solving a polynomial expression for P(2) and verified the steps, confirming the answer as plus 10. They then discussed finding P(-3) using the same method. At the end, they briefly touched on exam preparation, with Ajitha mentioning an 80-mark paper and Akash suggesting targeting over 60 marks for a good score.
+
+Negative Numbers Mathematical Concepts
+Ajitha and Akash discussed mathematical concepts, particularly focusing on negative numbers and their properties. Akash explained that when multiplying two negative numbers, the result is positive, using the analogy of preparing to catch a lion versus a rat. They worked through several mathematical examples together, with Akash guiding Ajitha through calculations involving negative numbers and powers. The session concluded with Ajitha successfully solving a problem that resulted in the answer -210.
+
+Finding Zeros of Polynomials
+Akash taught Ajitha about finding the zeros of a polynomial, explaining that a zero occurs when the polynomial equals zero. They worked through several examples, including calculating P(1) for the polynomial 2X³ - 3X² + 7X - 6 and determining if 2 is a zero of the polynomial P(X) = 3X² - 11X - 6. Akash also introduced solving polynomials with fractional values, specifically showing how to handle -1/2 as a variable in the polynomial P(X) = 3X² - 11X - 6.
+
+Mathematics Tutorial Session
+Akash and Ajitha worked through mathematical problems involving fractions and polynomials, with Akash guiding Ajitha through the steps of simplifying expressions and finding zeros of polynomials. They discussed how the degree of a polynomial determines the maximum number of zeros it can have, with linear polynomials having one zero, quadratic having two, and cubic having three. Akash emphasized the importance of understanding the definition of probability as "number of favorable outcomes divided by total number of outcomes," and advised Ajitha to prepare well for an upcoming mathematics exam on September 2nd.
