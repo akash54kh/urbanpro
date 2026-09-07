@@ -1,0 +1,26 @@
+Thursday 27 Aug 2026
+
+8:00pm–9:30pm IST
+
+Ajitha Kulandai
+
+Teaching Experience and Technical Discussion
+Akash and Ajitha discussed their days and Akash's teaching experience, where he currently teaches grades 6-8 after being shifted from 9-10 due to new textbooks and syllabus changes. They briefly addressed technical issues with Ajitha's Windows 10 laptop and its display. The conversation ended with Akash asking about Rubik's Cube, which Ajitha correctly identified as a 3x3 puzzle.
+
+Rubik's Cube Learning Experience
+Akash showed Ajitha a small Rubik's cube and discussed his experience learning to solve it in high school. Akash shared that he learned from a friend named Mohit and could solve any 3x3 cube in about 5 minutes, though he noted that some people can solve it in just 3-4 seconds using speed methods. Akash also recounted how his mathematics teacher Krishna Sir initially punished him for focusing on the cube instead of math problems, but later became impressed when Akash correctly answered a parabola question using his knowledge from a dictionary manual.
+
+Circle Geometry Problem Solving Session
+Akash and Ajitha discussed past classroom experiences, with Ajitha sharing about a difficult mathematics teacher who accused her of cheating. They then worked through polynomial and geometry problems, focusing on finding the radius of a circle through specific points and understanding circle theorems. Akash guided Ajitha through solving questions about chords and angles in circles, explaining key concepts including the theorem about equal chords subtending equal angles at the center.
+
+Circle Theorems and Cyclic Quadrilaterals
+Akash taught Ajitha about theorems related to circles, specifically focusing on equal chords forming equal angles at the center and the reverse theorem stating that equal angles indicate equal chord lengths. They worked through exercises showing that triangles formed by chords and the circle's center are isosceles, and proved congruence of triangles using side-angle-side criteria. The discussion concluded with an introduction to cyclic quadrilaterals and Brahmagupta's formula for calculating their area, with Ajitha demonstrating knowledge of the formula but needing clarification on the most important property of cyclic quadrilaterals.
+
+Cyclic Quadrilaterals and Rubik's Cube
+Akash taught Ajitha about properties of cyclic quadrilaterals, including that opposite angles sum to 180 degrees. They reviewed Theorem 2 which states that equal lengths of cords in a circle correspond to equal angles at the center. Akash then explained the different types of small cubes in a Rubik's Cube: 6 cubes showing one color (center cubes), 12 cubes showing two colors, and 8 cubes showing three colors.
+
+Polynomial Assessment Session
+Akash conducted a polynomial assessment with Ajitha, guiding her through various questions about polynomial expressions, values, and identities. Ajitha answered most questions correctly, with some clarification needed on specific polynomial forms and identities. They discussed fruit preferences during the session, and Akash explained concepts like polynomial evaluation and factor theorem. The assessment covered topics from the polynomial chapter, including exercises and identity definitions, with Ajitha demonstrating understanding of the material.
+
+Mathematics Tutoring Session Review
+Akash conducted a mathematics tutoring session with Ajitha, focusing on polynomial concepts including factorization, identities, and classification. They worked through 20 questions covering topics like cubic identities, polynomial degrees, and factorization methods. The session concluded with discussion about Ajitha's upcoming mathematics exam on Tuesday, September 1st, and arrangements for continued tutoring sessions including a potential class on Monday before the exam. Akash advised Ajitha to avoid silly mistakes during the exam and suggested informing her mother about paying fees for upcoming classes.

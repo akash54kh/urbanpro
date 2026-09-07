@@ -1,0 +1,32 @@
+PHMO93 Homework Progress Discussion
+Akash and Mohammed discussed Mohammed's day, including playing a game, with Akash inquiring about any interesting activities. Akash then asked about the status of homework related to PHMO93, specifically questions on pages 83 and 93. Mohammed confirmed he had completed the first question on page 83 but only the first one on page 93.
+
+Graph Drawing Review Session
+Akash reviewed Mohammed's homework involving graph drawing, identifying a mistake in starting the graph at zero and ensuring proper scaling. They discussed a bar graph exercise about insect types (mites, caterpillars, beetles, butterflies, and grasshoppers) and a second question about railway ticket data for different cities in Madhya Pradesh. Akash helped Mohammed understand how to correctly plot the ticket data, explaining the scale where 1cm represents 4 units, and identified an error in the representation of the numbers 20 and 24 on the graph.
+
+Bar Graph Scale Discussion
+Akash and Mohammed discussed solving questions related to bar graphs, focusing on ticket sales and scales. They determined the number of tickets sold for different locations, with Vidisha having 24 tickets and Jabalpur having 20. They clarified the scale of the graph, explaining that 1 centimeter represents 4 units. Akash guided Mohammed through drawing the correct bar for sugar based on the given scale.
+
+Bar Graph and Data Correction
+Akash guided Mohammed on correcting a bar graph by adding the correct scale numbers on the vertical axis and fixing the incorrect data for Indore. They discussed preparing a frequency distribution table for vehicle data collected from 9 to 10 a.m., with six different vehicle types including bikes, cars, buses, auto rickshaws, scooters, and bullock carts. Akash demonstrated how to use tally marks to count the frequency of each vehicle type in the data collection.
+
+Frequency Distribution Analysis Meeting
+Akash and Mohammed discussed frequency distribution problems, analyzing data about different modes of transport including scooters, cars, buses, bicycles, and bullet cards. They calculated the frequency of each transport method, determining that bicycles were used 12 times, the highest frequency. Akash then assigned an activity for Mohammed to complete, asking him to roll a die 30 times and create a frequency distribution table of the results, including calculations for minimum and maximum values and numbers appearing an equal number of times.
+
+Jaspreet Bhumrah Wickets Distribution Table
+Akash explained to Mohammed how to create a frequency distribution table for the number of wickets taken by cricketer Jaspreet Bhumrah in his last 30 matches, breaking down the data by wicket totals from 0 to 7. Akash asked Mohammed to identify what information the table provides and suggest an appropriate title for it, though Mohammed struggled to fully understand the cricket concepts involved.
+
+Cricket Statistics Calculation Session
+Akash and Mohammed discussed questions related to a table containing data about wickets taken by a cricketer in different matches. They worked through calculations to find the total number of wickets taken, determining it to be 90. Akash explained the correct method for calculating this total and emphasized the importance of understanding how to approach such questions, particularly for an upcoming exam. They completed five questions in the session and confirmed they were ready to continue or take a break.
+
+Pictograph Practice and Discussion
+Akash and Mohammed worked through several practice questions related to pictographs, focusing on interpreting data about tractors in villages and girl students in different classes. They solved questions about village comparisons, scales in pictographs, and the impact of adding students on the representation. They also began discussing a question about Mudal hounds, a breed of Indian dogs found in North Karnataka, and the government's initiative to protect and support those who adopt these dogs.
+
+Mudhole Dogs Data Visualization
+Mohammed presented data on the number of mudhole dogs in six villages of Karnataka, with numbers ranging from 12 to 48. Akash guided Mohammed in creating a pictograph, discussing the appropriate scale to use and explaining how to represent the data visually. They calculated the number of symbols needed for each village based on a chosen scale and answered questions about the total number of dogs in specific villages and combinations of villages.
+
+Data Representation Techniques Discussion
+Akash and Mohammed discussed data representation, focusing on pictographs and bar graphs. They reviewed key concepts including the importance of specifying scales in both pictographs and bar graphs, and how these visual representations help convey frequency distributions and allow quick understanding of data. Akash confirmed that Mohammed had completed the chapter on data handling and its presentation, and assigned remaining questions as homework with an offer to address doubts in the next class.
+
+Quiz Assignment and Class Planning
+Akash announced that there will be a quiz session in the upcoming class and assigned questions 9, 10, and 11 as homework for Mohammed. They agreed to hold the next class tomorrow at 9 o'clock, and Akash instructed Mohammed's parents to pay the fees for upcoming classes. During the conversation, Mohammed shared his hobbies, including crocheting, drawing natural scenes, and photography with a digital camera containing 136 photos.

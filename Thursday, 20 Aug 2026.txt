@@ -1,0 +1,23 @@
+Thursday 20 Aug 2026
+
+8:00pm–9:30pm IST
+
+Ajitha Kulandai
+
+Arc Calculations and Geometry Problems
+Akash and Ajitha discussed problems related to perimeters and areas, focusing on calculating the length of arcs in circles. Akash explained the concept of an arc and guided Ajitha through solving problems involving radius and angle measurements. They worked through examples, with Akash emphasizing the importance of creating rough sketches to visualize the problems. Ajitha mentioned not having the worksheet at home, and Akash suggested reaching out to a classmate to obtain it. The session ended with Ajitha starting to solve another problem while dealing with a friend's call.
+
+Mathematics Problem Solving Session
+Akash and Ajitha worked through mathematics problems together, focusing on calculating the arc length of a bicycle wheel and the area and perimeter of an equilateral triangle. They encountered technical difficulties sharing a worksheet due to file access issues, but managed to solve the problems using screen sharing and mobile devices. Akash explained the formula for the area of an equilateral triangle and helped Ajitha understand how to find the side length when given the area, though they were unable to definitively determine the correct perimeter value from the given options due to calculation uncertainties.
+
+Math Problem Solving Session
+Akash and Ajitha worked through several mathematical problems together. They first solved a triangle problem where they determined each side length to be 8cm when given a perimeter of 24cm, and then corrected a calculation error involving √3 in the area formula. They also solved problems involving the area of a circle when the radius is doubled (becoming 4 times the original area) and the area of a trapezium with parallel sides of 8cm and 12cm and height 5cm, finding the answer to be 50 square centimeters. The session concluded with them beginning to work on a problem about a rectangular lawn with a 2-meter wide path built inside along the boundary.
+
+Path Area Calculation Problem
+Akash and Ajitha worked through a problem involving finding the area of a path by calculating the difference between two rectangles. They determined the area of the path to be approximately 124 square centimeters and the remaining lawn area to be 176 square centimeters. After solving the problem, they took a brief break before planning to work on the next question.
+
+Square and Semicircle Area Calculation
+Akash and Ajitha discussed solving a problem involving finding the total area of a figure consisting of a square with a semicircle drawn on one side. Ajitha worked through the calculation, determining that the area of the square is 196 square centimeters and the semicircle's area is calculated using pi r^2/2 with a radius of 7 centimeters. They confirmed the answer should be 240 square centimeters, with Ajitha explaining her step-by-step process including the calculation of the square's area and the semicircle's area using pi r^2/2.
+
+Math Problem and Homework Discussion
+Ajitha and Akash worked through a math problem involving a bed of roses shaped as a square with semicircles on each side, calculating the total number of plants that could be planted. They determined the answer was 189 plants. Akash assigned homework for Ajitha to complete the remaining problems from the worksheet by Tuesday, including questions on perimeter and area. They discussed study habits, with Akash advising Ajitha to set specific time goals for studying and suggesting reducing sleep to 6 hours for better focus.

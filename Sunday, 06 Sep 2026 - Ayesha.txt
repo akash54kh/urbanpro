@@ -1,0 +1,23 @@
+Math Homework Review Session
+Akash checked in on Mohammed's homework, confirming that Mohammed had found 16 prime numbers between 400 and 500 and correctly identified the seventh prime number as 443. Akash then reviewed a multiplication problem involving 17 by 9, guiding Mohammed through the process of breaking it down into nine equal parts.
+
+Prime Number Discussion Meeting
+Akash and Mohammed discussed prime numbers, focusing on identifying and listing them. They confirmed the fifth prime number as 431 and the 17th prime number as 499, with Mohammed providing a complete list including 401, 409, 419, 421, 433, 439, 443, 449, 457, 461, 463, 467, 479, 487, 491, and 499. Akash noted that one number, 433, was missing from Mohammed's list.
+
+Prime Numbers and Matrix Representation
+Akash and Mohammed discussed prime numbers, with Akash confirming that all numbers found except 433 were prime. Akash then explained how to represent a 17x9 matrix by breaking it into an 8x9 and a 9x9 component, demonstrating the process of creating two rectangular boxes with 9 equal columns and explaining how to shade the appropriate parts.
+
+Fraction Representation Challenges
+Akash discussed the proper representation of fractions, specifically focusing on a 17 by 9 fraction that he had struggled with during an interview at Einstein Square. He explained that while he could handle simpler fractions like 8x3, the larger numbers caused confusion and led to him not getting selected for the position. Akash offered to provide additional examples of fraction representations using rectangles, noting that circles could also be used but are more difficult to divide into specific parts.
+
+Fraction Problem Teaching Session
+Akash assigned Mohammed homework to solve 23 by 7 as a fraction problem and explained a textbook example about fractional units using a picture of a chicky broken into two pieces. They counted the squares in the original chicky image, determining it had 24 total squares, and discussed how the broken pieces represented one-fourth of the original whole. Akash guided Mohammed through understanding how to represent the broken pieces as fractional units.
+
+Measuring and Dividing Whole Chicken
+Akash and Mohammed discussed how to measure and divide a whole chicken into different pieces using fractions. They explored cutting the chicken into six equal parts using various cutter lines, demonstrating that different-shaped pieces can represent equal quantities of the chicken. Akash explained that while the pieces have different shapes, they are equal in size, and they can be represented using fraction units like 1/6 or 1/7 depending on the specific cut.
+
+Chicken Fraction Division Discussion
+Akash and Mohammed discussed dividing a chicken into different fractional parts. They determined that one part of the chicken is one-third of the whole chicken, and another part is one-twelfth when the chicken is divided into 12 equal pieces. They also identified a third part as being one-fourth of the whole chicken when cut in a specific way. The discussion focused on understanding and calculating these fractional parts through visual representations and division methods.
+
+Fractions and Area Division
+Akash and Mohammed worked through mathematical problems involving fractions and division of areas. They solved examples including dividing shapes into parts like 1x8, 1x6, and 1x24, and discussed how to divide agricultural land equally among four farmers. The session covered measuring using unit fractions by folding paper strips and representing fractions as parts of whole objects. Due to network issues affecting audio and video quality, they took several brief breaks to resolve connectivity problems. They concluded the session by reviewing what was covered, including the representation of fractions as parts of whole items and the division of shapes into fractional parts. --- **Attendees:** Akash Khobare (Organizer), Mohammed Anwar ahmed (External)

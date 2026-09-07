@@ -1,0 +1,14 @@
+Prime Numbers Tutoring Session
+Akash and Mohammed conducted a mathematics tutoring session focused on prime numbers and factorization. They discussed prime numbers, composite numbers, and worked through textbook exercises including finding multiples of 40 between specific ranges and identifying factors of various numbers. Mohammed mentioned upcoming mathematics competitions on September 3rd and 17th, and they practiced solving problems about perfect numbers and common factors between 20 and 28.
+
+Multiples and Game Numbers Discussion
+Akash and Mohammed discussed finding three numbers that are multiples of 25 but not multiples of 50, identifying 25, 75, and 125 as the solution. They then explored a question about Anshu and friends playing an Idli Vada game, with Akash suggesting that the two numbers could be 7 and 8, both smaller than 10, with 7 representing Idli and 8 representing Vada.
+
+Mathematical Problems in Treasure Game
+Akash and Mohammed discussed mathematical problems related to a treasure hunting game and common multiples. They worked through examples involving numbers 28 and 70, and identified common factors and multiples of 24, 48, and 72. Akash explained that math-related questions like these are less likely to appear on exams, and they began exploring another problem about finding the smallest number that is a multiple of all numbers from 1 to 10 except for 7.
+
+Smallest Divisible Numbers Discussion
+Akash and Mohammed discussed finding the smallest number divisible by specific sets of numbers. They determined that the smallest number divisible by all numbers from 1 to 10 except 7 is 360, and the smallest number divisible by all numbers from 1 to 10 is 2520. Akash then explained prime numbers, noting that prime numbers have only two factors: 1 and the number itself. They agreed to continue working on prime number programming in the next session.
+
+Prime Numbers Discussion Session
+Akash and Mohammed discussed prime numbers and their properties during a mathematics session. They explored the Sieve of Eratosthenes method for finding prime numbers and identified specific prime numbers between certain ranges. Akash assigned homework to Mohammed to list prime numbers between 200 and 300 and between 400 and 500, and they agreed to continue their discussion in the next session at 5 o'clock the following day.
