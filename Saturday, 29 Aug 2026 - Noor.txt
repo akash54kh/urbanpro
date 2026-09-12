@@ -1,0 +1,17 @@
+Homework and Quadrilateral Studies
+Akash and Mohammed discussed Mohammed's recent trip, where he observed the sun and camels with humps that store water. Akash reminded Mohammed about homework related to properties of quadrilaterals that was not completed, attributing the missed assignment to the trip. Akash instructed Mohammed to ensure regular completion of homework going forward and mentioned they had completed studying chapter 4 on quadrilaterals in class.
+
+Square Numbers Learning Discussion
+Akash and Mohammed discussed learning about square numbers, starting with chapter 1 which covers squares and cubes. Akash explained the concept of square numbers, their notation using exponents, and demonstrated how to calculate square roots. They also briefly touched on cubic numbers and fractions, with Akash providing examples of square calculations including 2.5 squared which equals 6.25.
+
+Mathematical Square Numbers Discussion
+Akash and Mohammed discussed mathematical calculations, focusing on square numbers and decimal expansions. Mohammed completed a table of squares from 6 to 20, with Akash verifying the calculations and asking Mohammed to predict additional squares up to 30. At the end of the discussion, Akash asked Mohammed to observe patterns between two sequences of square numbers.
+
+Perfect Squares Pattern Discussion
+Akash and Mohammed discussed patterns in squared numbers, focusing on the last digit of perfect squares. Akash explained the sequence of perfect squares (1², 2², 3², etc.) and helped Mohammed understand how to identify numbers with specific digits in the unit place. They worked through textbook questions together, with Akash guiding Mohammed through the calculations and patterns. Akash then introduced a new question about finding numbers between consecutive perfect squares and asked Mohammed to identify the pattern.
+
+Perfect Square Determination Method
+Akash explained a method to determine if a number is a perfect square by performing a series of subtractions. He demonstrated the process using examples like 9 and 25, showing that if the final result is 0, the number is a perfect square. Akash also corrected Mohammed's understanding of the process when they worked through the example of 34, explaining that after reaching 0, the next step is to continue subtracting consecutive numbers without repeating any number.
+
+Perfect Squares and Rubik's Cube
+Akash guided Mohammed through exercises on perfect squares between 1-1000, helping him identify and count the number of perfect squares in various ranges. They discussed the relationship between area and side length of squares, with Akash explaining that if y=x², then x is the square root of y. Akash assigned Mohammed homework to complete a worksheet with 15 questions in Tab 2 and asked him to identify which chapters would be covered in the exam. They also discussed Rubik's Cube, specifically focusing on counting cubes showing different color combinations, with Akash challenging Mohammed to determine how many cubes show only two colors and providing four multiple choice options to consider for the next class.
